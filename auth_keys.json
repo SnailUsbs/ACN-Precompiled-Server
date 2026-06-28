@@ -1,0 +1,10 @@
+{
+  "Users": {
+    "Default": {
+      "Description": "Default user",
+      "UserKind": "Player",
+      "Tags": [],
+      "Badges": []
+    }
+  }
+}

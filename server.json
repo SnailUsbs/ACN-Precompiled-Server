@@ -1,0 +1,21 @@
+{
+  "NetworkInterface": "LiteNetLib",
+  "Port": 41585,
+  "MaxPlayers": 65534,
+  "UseNativeSockets": true,
+  "TicksPerSecond": 32.0,
+  "LogChats": true,
+  "LogChatsToFiles": false,
+  "AllowNameChanges": false,
+  "ChatCooldown": 0.5,
+  "MOTD": "<color=yellow>Welcome to All City Network!",
+  "AlwaysShowMOTD": false,
+  "WebServer": false,
+  "WebServerFrontendURL": "",
+  "DiscordClientId": "",
+  "DiscordClientSecret": "",
+  "DiscordCallback": "/api/auth/discord/callback",
+  "DatabaseConnectionString": "Host=127.0.0.1;Port=5432;Database=acn;Username=admin;Password=pwd",
+  "ClientAnimationSendMode": "ReliableUnordered",
+  "ServerAnimationSendMode": "Unreliable"
+}
