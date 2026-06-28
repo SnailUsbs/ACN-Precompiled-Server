@@ -12,7 +12,7 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 
 # How To Run A Major Server MMO Style
 - You need to rent a remote server from month
-- Best options would be something like DigitalOcean, which will only run you run a few dollars per month.
+- Best options would be something like DigitalOcean, which will only run you a few dollars per month.
 - Depending on your player count, you may need to increase the amount of total power you are renting, but its unlikely based on Freesoul's numbers. 
 - After your server is rented, you follow the same steps as above to get the server running. 
 
