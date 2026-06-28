@@ -7,6 +7,16 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 - Run the "BommbrushMPServer.exe"
 - Ensure you have port forwarded a port, with port 41585 being the default option
 
+# Windows Firewall Issue:
+- Windows may auto block the server even when its just running on your local network. To fix this, do the follow:
+
+1 - Open Firewall & Network Protection
+2 - Click the "Allow An App Through Firewall" option
+3 - Click the "change settings" button
+4 - Find BombRushMP.ServerApp.exe in the list of options, and check it's box so its enabled to pass through the fire wall
+5 - If you dont see the BombRushMP.ServerApp.exe option, click the allow another app option at the bottom, and add select your BombRushMP.ServerApp.exe.
+
+
 # This version of ACN's does not fix any of the vuln/exploits in it, its the same exact one running in freesoul currently. 
 
 - If you are just playing with friends though, it should not be an issue in all honesty.
