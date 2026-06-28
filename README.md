@@ -1,8 +1,8 @@
-# ACN-Precompiled-Server
-The precompiled server for All City Network so anyone can host a bombrush multiplayer server of their own
+# ACN Precompiled Server
+The precompiled server for All City Network so anyone can host a bombrush multiplayer server of their own, without having to learn the steps needed to be able to build the server. 
 
 
-# How To Run Server:
+# How To Run The Server:
 - Download the build from this repo
 - Run the "BommbrushMPServer.exe"
 - Ensure you have port forwarded a port, with port 41585 being the default option
