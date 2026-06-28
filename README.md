@@ -9,7 +9,7 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 - Ensure you have port forwarded a port, with port 41585 being the default option
 
 # Windows Firewall Issue:
-- Windows may auto block the server even when its just running on your local network. To fix this, do the follow:
+- Windows may auto block the server even when its just running on your local network. To fix this, do the following:
 
 1 - Open Firewall & Network Protection
 
