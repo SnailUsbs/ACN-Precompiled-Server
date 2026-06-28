@@ -2,7 +2,7 @@
 The precompiled server for All City Network so anyone can host a bombrush multiplayer server of their own, without having to learn the steps needed to be able to build the server. This is the perfect option to play with friends, if you don't want to deal with freesoul, other players, or major servers that try and control what mods you can use in game. 
 
 
-# How To Run The Server (On your device, mainly for friends:
+# How To Run The Server (On your device, mainly for friends):
 - Download the build from this repo
 - Keep everything in the folder, do not remove the exe from it, as it needs to call on the other files in it to run properly 
 - Run the "BommbrushMPServer.exe"
