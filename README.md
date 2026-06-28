@@ -31,7 +31,11 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 
 
 # This version of ACN's does not fix any of the vuln/exploits in it, its the same exact one running in freesoul currently. 
+If you are just playing with friends though, it should not be an issue in all honesty, but below are the issues that I currently know of, client side or not:
 
-- If you are just playing with friends though, it should not be an issue in all honesty.
-
-- You can use the link below to go to this repo's wiki, and read all of the issues in it to figure out if any of the issues are a risk for you to use. 
+- NaN can remotely crash players game if used in the correct way
+- /getauth isn't wrapped, allowing anyone to use the command and get personal info of any user
+- The Debug menu can easily be accessed client side, and then users of the debug menu can join any lobby they want
+- Mini game dont have a packet filter of any kind, allowing you to send custom packets with scores like 999,999 , even in graces
+- The SQL Database handles searching for players by going through the entire database each search, meaning after a certain amount of players getting put into the database, the server itself will start to buckle, and players already playing will notice it
+- The ban system can be easily spoofed via custom HWID, GUID, and IP Spoofing, which also makes the SQL issue worse.
