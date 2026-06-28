@@ -10,6 +10,9 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 - A terminal will appear giving you an over view of the server once its running. 
 - Close the terminal when you want to close the server.
 
+- Once the server is running, edit your bombrushMP config to add your server address/IP, alongside your port if you changed it.
+- Then once you load the game, you will auto connect to your custom server!
+
 # How To Run A Major Server MMO Style
 - You need to rent a remote server from month
 - Best options would be something like DigitalOcean, which will only run you a few dollars per month.
