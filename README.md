@@ -4,6 +4,7 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 
 # How To Run The Server:
 - Download the build from this repo
+- Keep everything in the folder, do not remove the exe from it, as it needs to call on the other files in it to run properly 
 - Run the "BommbrushMPServer.exe"
 - Ensure you have port forwarded a port, with port 41585 being the default option
 
