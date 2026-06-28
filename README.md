@@ -31,6 +31,8 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 
 
 # This version of ACN's does not fix any of the vuln/exploits in it, its the same exact one running in freesoul currently. 
+If you want to use a custom ACN client that fixes most of the issues below, you can find my own in https://github.com/SnailUsbs/FreeAllCityNetwork
+
 If you are just playing with friends though, it should not be an issue in all honesty, but below are the issues that I currently know of, client side or not:
 
 - NaN can remotely crash players game if used in the correct way
