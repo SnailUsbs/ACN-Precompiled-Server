@@ -27,4 +27,4 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 
 4 - Find BombRushMP.ServerApp.exe in the list of options, and check it's box so its enabled to pass through the fire wall
 
-5 - If you dont see the BombRushMP.ServerApp.exe option, click the allow another app option at the bottom, and add select your BombRushMP.ServerApp.exe.
+5 - If you dont see the BombRushMP.ServerApp.exe option, click the allow another app option at the bottom, and select your BombRushMP.ServerApp.exe.
