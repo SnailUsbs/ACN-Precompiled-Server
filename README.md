@@ -47,3 +47,5 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 # Extra info:
 
 - **Auth_keys.json:** This is the file that handles badges, if the user is a mod/admin, and special effects for players. To use some pre made ones, or to learn how to make your own, head to: https://github.com/SnailUsbs/ACN-Auth_keys.json-Setups
+
+- **Aprils Fools Badge Event:** This is a server side event that will give all users a random badge based on their name. You can see exactly what badge you will end up getting with a given username in: https://github.com/SnailUsbs/ACN-AF-Badge-Crack
