@@ -31,7 +31,3 @@ The precompiled server for All City Network so anyone can host a bombrush multip
 4 - Find BombRushMP.ServerApp.exe in the list of options, and check it's box so its enabled to pass through the fire wall
 
 5 - If you dont see the BombRushMP.ServerApp.exe option, click the allow another app option at the bottom, and select your BombRushMP.ServerApp.exe.
-
-## Extra Stuff
-
-- If you turn on the Aprils Fools Badge event, you can use the following program to figure out exactly what badge a given username would give you: https://github.com/SnailUsbs/ACN-AF-Badge-Crack
