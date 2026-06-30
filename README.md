@@ -37,7 +37,9 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
   > & "C:\path\to\dotnet\dotnet.exe" .\BombRushMP.ServerApp.dll
   > 
   > Replace the "C:\path\to\dotnet\dotnet.exe" install
+  >
   > replace the "BombRushMP.ServerApp.dll" with the actual path of your dll
+  >
   > launching the dll instead of the exe gets around the .NET issues
 </details>
 
