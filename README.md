@@ -27,6 +27,18 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
 </details>
 
 <details>
+  <summary><b>Won't Launch? / .NET 8.0 Issues</b></summary>
+  - If you get an error trying to launch it, saying you need .NET 8.0, try installing that first and see if it works
+  
+  - If it doesn't work even after installing, thats likely because you already have another .NET version on your pc, and need to specificly launch it with a command like
+  > & "C:\path\to\dotnet\dotnet.exe" .\BombRushMP.ServerApp.dll
+  > 
+  > Replace the "C:\path\to\dotnet\dotnet.exe" install
+  > replace the "BombRushMP.ServerApp.dll" with the actual path of your dll
+  > launching the dll instead of the exe gets around the .NET issues
+</details>
+
+<details>
   <summary><b>Windows Firewall Issue</b></summary>
   
   - Windows may auto block the server even when its just running on your local network. To fix this, do the following:
