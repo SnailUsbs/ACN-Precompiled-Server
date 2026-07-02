@@ -68,3 +68,13 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
 - **All Commands:** You can see all of the possible in-game commands: https://github.com/SnailUsbs/ACN-Precompiled-Server/wiki/All-City-Network-Commands
 
 - **Aprils Fools Badge Event:** This is a server side event that will give all users a random badge based on their name. You can see exactly what badge you will end up getting with a given username in: https://github.com/SnailUsbs/ACN-AF-Badge-Crack
+
+- <details>
+  <summary><b>Debug Servers</b></summary>
+  
+  If you are having issues with the server, the versions below will print infomation in the terminal regarding your specific issue. All Debug servers are hosted in the same repo, but the links below will bring you each specific version:
+
+  - **Debug Server Repo:** https://github.com/SnailUsbs/ACN-Precompiled-Server-DebugVersions
+
+  - **auth_keys.json Debug Server (windows):** https://github.com/SnailUsbs/ACN-Precompiled-Server-DebugVersions/releases/tag/AuthKeyDebugv1
+</details>
