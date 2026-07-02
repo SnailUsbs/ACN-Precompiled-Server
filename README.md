@@ -1,6 +1,8 @@
 # ACN Precompiled Server
 The precompiled server for All City Network so anyone can host a Bombrush Cyberfunk multiplayer server of their own, without having to learn the steps needed to be able to build the server. This is the perfect option to play with friends, if you don't want to deal with freesoul, other players, or major servers that try and control what mods you can use in game. 
 
+**This is the precompiled server program from All City Network for Windows. If you are looking for the Linux version, head over to:** https://github.com/SnailUsbs/ACN-Precompiled-Server-Linux/tree/main
+
 # SETUP
 
 <details>
