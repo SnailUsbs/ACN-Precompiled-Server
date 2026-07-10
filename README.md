@@ -65,6 +65,13 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
 </details>
 
 -----
+# CLI/Test Client
+
+If you need to test things in your server with another player, or need to get into a map that you can't access but have the ID for to handle bans you can use the program below, which allows you to connect to an ACN server using what ever infomation you want, and still chat/see messages
+
+- **ACNCLI:** https://github.com/SnailUsbs/ACNCLI-Client/tree/main
+
+-----
 
 # Extra info:
 
